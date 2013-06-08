@@ -3,5 +3,4 @@ author: Adam D. Scott
 email: hello@adamdscott.com
 markdown: rdiscount
 pygments: true
-baseurl:  /Code-and-Create
 permalink: /:title
